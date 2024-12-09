@@ -35,11 +35,3 @@ function App() {
 }
 
 export default App;
-
-// const tasks = [
-//   { name: "Todo1", isDone: false },
-//   { name: "Todo2", isDone: false },
-//   { name: "Todo3", isDone: false },
-//   { name: "Todo4", isDone: false },
-//   { name: "Todo5", isDone: false },
-// ];
